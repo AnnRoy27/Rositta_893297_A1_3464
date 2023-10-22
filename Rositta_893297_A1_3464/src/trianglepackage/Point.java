@@ -2,7 +2,7 @@ package trianglepackage;
 
 public class Point {
 	 private double x;
-	    private double y;
+	  private double y;
 
 	    public Point(double x, double y) {
 	        this.x = x;
@@ -16,8 +16,6 @@ public class Point {
 	    public double getY() {
 	        return y;
 	    }
-	
-	
 	
 	
 }
